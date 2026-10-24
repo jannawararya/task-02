@@ -1,0 +1,32 @@
+id,question,answerable,expected_answer,expected_source,expected_page
+1,What is the baseline approach for the Review Sentiment Analyzer?,yes,A baseline built with TF-IDF and Logistic Regression.,Pre-Interview,3
+2,Which metrics and validation method must the Insurance Cost Predictor use?,yes,"MAE, RMSE and R², evaluated with 5-fold cross-validation.",Pre-Interview,2
+3,Which dataset is used for the Insurance Cost Predictor?,yes,"The Medical Cost Personal Dataset (age, sex, BMI, children, smoker, region).",Pre-Interview,2
+4,How many questions must the RAG chatbot be tested on?,yes,"At least 20, including some the documents cannot answer.",Pre-Interview,3
+5,Which pretrained model does the sentiment analyzer have to be compared with?,yes,A pretrained transformer from Hugging Face.,Pre-Interview,3
+6,Which small transformer is suggested for the fine-tuning project?,yes,DistilBERT.,Pre-Interview,3
+7,What are the deliverables for the Review Sentiment Analyzer?,yes,"A GitHub repository with organized folders (data, notebooks, app, requirements.txt); a README with setup steps, screenshots and a results table; and a working demo, local or on Streamlit Cloud or Hugging Face Spaces.",Pre-Interview,3
+8,What kinds of states must the Public Data Explorer handle?,yes,"Loading states, empty results and API errors.",Pre-Interview,4
+9,What extra is expected from third-year Web Development students?,yes,They must extend the project with an additional feature or technical enhancement of their choice.,Pre-Interview,4
+10,What does the first-year Web Development task ask students to build?,yes,"An Interactive Campus Explorer: a responsive website for exploring campus clubs, events or student resources.",Pre-Interview,4
+11,Which technology is preferred for the App Development tasks?,yes,"Flutter (preferred), or Java or Kotlin.",Pre-Interview,5
+12,What must the Quiz App let users do?,yes,"Choose from at least two quiz categories, answer multiple-choice questions, and view their final score.",Pre-Interview,5
+13,On which testnet is the FundChain contract suggested to be deployed?,yes,Sepolia (as an example testnet).,Pre-Interview,6
+14,"How long should the Account Abstraction blog be, and what must it include?",yes,"About 1,000-1,500 words with sources cited, and at least one diagram the student made.",Pre-Interview,6
+15,How many Web3 tasks must second and third year students complete?,yes,Any 2 of the 3 tasks.,Pre-Interview,6
+16,What does the second and third year Cloud Deployment Task require?,yes,"Deploy a project or real-world application using a cloud service (GCP preferred) and implement at least one integration: database integration, cloud security, or environment configuration.",Pre-Interview,7
+17,What should the first-year Cloud computing presentation cover?,yes,"Cloud fundamentals; IaaS, PaaS, SaaS and other service models; benefits over on-premises systems; types of services and providers (AWS, Azure, GCP); and at least 2 real-world use cases.",Pre-Interview,7
+18,What does the Finance budget planning task involve?,yes,"Preparing a detailed budget in rupees for a 24-hour hackathon with 100 participants; a later task asks to cut it by 40% and to allocate an extra ₹30,000 sponsorship.",Pre-Interview,9
+19,How many potential sponsors must be listed in the Sponsorship domain?,yes,"A list of 5 potential sponsors, with reasons for choosing each.",Pre-Interview,9
+20,How big is the team in the one-day campus publicity task?,yes,A team of 4 with a limited budget.,Pre-Interview,10
+21,Which social media pages should Content applicants explore before the interview?,yes,GDGoC VIT Pune's Instagram and LinkedIn pages.,Pre-Interview,11
+22,What is mandatory for all Multimedia sub-domains?,yes,"A portfolio showcasing best previous work, tools and skillset.",Pre-Interview,12
+23,How tall should the 3D letter G be in the Aesthetics tasks?,yes,"12 cm tall, made from easily available materials.",Pre-Interview,13
+24,Which first-year domains ask students to prepare a PPT?,yes,Cloud (a PPT on cloud computing fundamentals) and Cybersecurity (a PPT on a cybersecurity concept or vulnerability).,Pre-Interview,7;8
+25,Which AI/ML project tracks require a GitHub repository?,yes,"Track A (showcase a working app with a GitHub repository) and Track B (a GitHub repository with a clear structure, reproducible setup and a detailed README).",Pre-Interview,2;3
+26,What is the registration deadline for the GDGoC interviews?,no,Not stated in the documents.,,
+27,Who is the current president of GDGoC VIT Pune?,no,Not stated in the documents.,,
+28,What minimum CGPA is required to apply?,no,Not stated in the documents.,,
+29,Which cloud provider has the cheapest hosting prices?,no,"Not stated; the document names AWS, Azure and GCP but gives no pricing.",,
+30,Which programming language must the RAG chatbot be written in?,no,Not stated; the document does not specify a language.,,
+31,How many applicants were selected last year?,no,Not stated in the documents.,,
